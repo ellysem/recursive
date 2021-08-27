@@ -1,0 +1,7 @@
+C:\Users\ellmo\source\repos\Recurse\Recurse\bin\Debug\Recurse.exe.config
+C:\Users\ellmo\source\repos\Recurse\Recurse\bin\Debug\Recurse.exe
+C:\Users\ellmo\source\repos\Recurse\Recurse\bin\Debug\Recurse.pdb
+C:\Users\ellmo\source\repos\Recurse\Recurse\obj\Debug\Recurse.csproj.CoreCompileInputs.cache
+C:\Users\ellmo\source\repos\Recurse\Recurse\obj\Debug\Recurse.exe
+C:\Users\ellmo\source\repos\Recurse\Recurse\obj\Debug\Recurse.pdb
+C:\Users\ellmo\source\repos\Recurse\Recurse\obj\Debug\Recurse.csproj.AssemblyReference.cache
