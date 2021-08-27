@@ -1,8 +1,5 @@
-﻿/* CSC205 Week 04 Programming Assignment, Problem #02
- * Instructor: Dr. Guangyan Li
- * Team Members: Ellyse Mooney, Shaira Lacour, Ja'vonn Liner
- * Purpose of Program: This program consists of several recursive methods.
- */
+﻿/* Purpose of Program: This program consists of several recursive methods. */
+
 using System;
 
 namespace Recurse
